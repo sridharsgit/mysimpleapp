@@ -11,6 +11,7 @@
 		echo date("g:i A l, F j Y.");?> </p>
 	
 <p>
+<?php
 // PHP program to obtain IP address of 
 // the server 
   
