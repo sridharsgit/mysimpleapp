@@ -8,7 +8,9 @@
 	<h1>PHP Test</h1>
 		<p><b>An Example of PHP in Action - Sridhar - NEW on Nov 9, 2020 - Can I change THIS????</b></p>
 		<?php echo "The Current Date and Time is: <br />"; 
-		echo date("g:i A l, F j Y.");?> </p>
+		echo date("g:i A l, F j Y.");
+		$_SERVER['SERVER_ADDR']
+		echo $_SERVER ?> </p>
 	<h2>PHP Information</h2> 
 		<p> <?php phpinfo(); ?> </p> 
 	</body> 
